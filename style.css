@@ -1,0 +1,82 @@
+.biodata{
+  background-color:darkslategray;
+  padding: 80px;
+  background-size: cover;
+  text-align: center;
+  margin-top: -60px;
+  margin-left: -20px;
+  margin-right: -20px;
+}
+
+.judul{
+  color: white;
+  font-size: 38px;
+}
+
+.border{
+  background-color:darkolivegreen;
+  padding: 4px;
+  border-radius: 20px;
+  position: absolute;
+  margin-left: 500px;
+  margin-top: -38px;
+}
+
+body{
+  background-image: url('/pexels-aleksandar-pasaric-1134166.jpg');
+}
+
+.gambar{
+  margin-top : 20px;
+  
+}
+
+img{
+  border-radius: 80%;
+  position: absolute;
+  margin-left: 610px;
+}
+
+.isi{
+  margin-top: 250px;
+  margin-left: 280px;
+  margin-right: 250px;
+  background-color:darkslategray;
+  padding: 10px;
+  border-radius: 20px;
+  text-align: center;
+  color: black;
+}
+
+.saya{
+  text-align: center;
+  background-color:darkolivegreen;
+  color: white;
+  padding:20px;
+  background-size: cover;
+}
+
+li{
+  text-decoration: none;
+  list-style: none;
+}
+
+.medsos{
+  padding:5px;
+  background-color:grey;
+  background-size: cover;
+  text-align: center;
+  color: white;
+  margin-right: 10px;
+  text-size-adjust: 20;
+}
+
+.medsos ul li {
+  display: inline-block;
+  color: white;
+}
+
+.container{
+  width: 80% auto;
+}
+
